@@ -1,4 +1,5 @@
 /.env
 /.venv
+/.pyc
 /dump.sql
 /__pycache__
